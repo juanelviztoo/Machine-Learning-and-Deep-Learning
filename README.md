@@ -1,4 +1,4 @@
-# Machine Learning and Deep Learning [ASSIGNEMNT]
+# Machine Learning and Deep Learning [ASSIGNMENT]
 
 ## Number 1 Machine Learning - Classification with Supervised Machine Learning Models (Supervised: Classification)
 
@@ -26,7 +26,21 @@ TODO:
 
 Case Description : 
 
+Where, participants were able to predict house prices using **Multilayer Perceptron** by utilizing _Pandas_, _Numpy_, _Scikit-learn_, and _Matplotlib_ libraries along with the _**Tensorflow-Keras**_ Framework.
+
+TODO:
+- Complete the code provided.
+- Answer [QUESTION] directly on the notebook, if any.
+- Enable T4 GPU in Google Colab, if instructed.
+
 ## Number 4 Deep Learning - Classify Credit Fraud Transactions using Multilayer Perceptron (Supervised: Classification)
 
 Case Description : 
 
+Where, participants were able to classify fraud transactions using **Multilayer Perceptron** by utilizing _Pandas/cuDF_, _Scikit-learn/cuML_, _Numpy/cuPy_ libraries along with _**PyTorch**_ framework. 
+
+TODO :
+- Complete the code provided.
+- Answer [QUESTION] directly on the notebook, if any.
+- Enable T4 GPU in Google Colab, if instructed.
+- Ensure that the model evaluation result (with test data) is above 95%.
